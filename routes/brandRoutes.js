@@ -6,11 +6,19 @@ const router = express.Router();
 
 router
 .route('/')
-.get(brandController.getAllBrands);
+.get(brandController.getApple);
+
+// router
+// .route('/')
+// .get(brandController.getAllBrands);
 
 router
 .route('/:brandId')
 .get(brandController.getBrandSmartphones);
+
+router.
+route('/details/:brandId')
+.get(brandController.getDeviceListDetails);
 
 
 module.exports = router;
