@@ -1,0 +1,381 @@
+[
+    {
+        "address": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+        "address_label": null,
+        "name": "Pitbull",
+        "symbol": "PIT",
+        "decimals": "9",
+        "logo": "https://logo.moralis.io/0x38_0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50_adbcebe442054a1e885fde158a0766ee",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50_adbcebe442054a1e885fde158a0766ee",
+        "total_supply": "100000000000000000000000000",
+        "total_supply_formatted": "100000000000000000",
+        "fully_diluted_valuation": "70021804.40",
+        "block_number": "5760736",
+        "validated": 1,
+        "created_at": "2021-03-17T13:30:59.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Platform-Based Utility Tokens"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/BscPitbull",
+            "website": "https://pitbull.community/",
+            "medium": "https://medium.com/pit-bsc-community",
+            "github": "https://github.com/pitbullBSC",
+            "reddit": "https://www.reddit.com/r/pitbulltoken",
+            "discord": "https://discord.gg/yn69GXGZS5,",
+            "telegram": "https://t.me/Pitbull_BSC"
+        }
+    },
+
+    {
+        "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "address_label": "Binance: BNB Token",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x1_0xb8c77482e45f1f44de1745f52c74426c631bdd52_2b180018b1ce48bb9b8d24a92b3f3104",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x1_0xb8c77482e45f1f44de1745f52c74426c631bdd52_2b180018b1ce48bb9b8d24a92b3f3104",
+        "total_supply": "392908135046413249272161",
+        "total_supply_formatted": "392908.135046413249272161",
+        "fully_diluted_valuation": "270771805.48",
+        "block_number": "0",
+        "validated": 1,
+        "created_at": "2017-07-05T14:31:24.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Decentralized Derivatives",
+            "Exchange-Issued Asset Tokens",
+            "Platform-Based Utility Tokens",
+            "Analytics Tokens",
+            "Privacy Coins",
+            "Meme"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/binance",
+            "website": "https://www.binance.com",
+            "reddit": "https://www.reddit.com/r/binance",
+            "github": "https://github.com/binance-exchange/binance-official-api-docs"
+        }
+    },
+
+    
+    {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "address_label": "Tether USD (USDT)",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": "6",
+        "logo": "https://logo.moralis.io/0x1_0xdac17f958d2ee523a2206206994597c13d831ec7_0b0d126af6c744c185e112a2c8dc1495",
+        "logo_hash": "ee7aa2cdf100649a3521a082116258e862e6971261a39b5cd4e4354fcccbc54d",
+        "thumbnail": "https://logo.moralis.io/0x1_0xdac17f958d2ee523a2206206994597c13d831ec7_0b0d126af6c744c185e112a2c8dc1495",
+        "total_supply": "51998658367642960",
+        "total_supply_formatted": "51998658367.64296",
+        "fully_diluted_valuation": "51985446168.08",
+        "block_number": "20013391",
+        "validated": 1,
+        "created_at": "2017-11-28T00:41:21.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Asset-backed Tokens",
+            "Exchange-Issued Asset Tokens",
+            "Platform-Based Utility Tokens",
+            "Stablecoins"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/Tether_to",
+            "website": "https://tether.to/",
+            "facebook": "https://www.facebook.com/tether.to",
+            "reddit": "https://www.reddit.com"
+        }
+    },
+
+
+    
+    {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "address_label": "USD Coin (USDC)",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": "6",
+        "logo": "https://logo.moralis.io/0x1_0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48_e6ec22e3ef954a7f9eda04f294938f4d",
+        "logo_hash": "442b80bd16af0c0d9b22e03a16753823fe826e5bfd457292b55fa0ba8c1ba213",
+        "thumbnail": "https://logo.moralis.io/0x1_0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48_e6ec22e3ef954a7f9eda04f294938f4d",
+        "total_supply": "24016534897419767",
+        "total_supply_formatted": "24016534897.419767",
+        "fully_diluted_valuation": "23999695834.91",
+        "block_number": "20020343",
+        "validated": 1,
+        "created_at": "2018-08-03T19:28:24.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Exchange-Issued Asset Tokens",
+            "Platform-Based Utility Tokens",
+            "Stablecoins"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/circle",
+            "website": "https://www.circle.com/en/usdc",
+            "medium": "https://medium.com/centre-blog",
+            "github": "https://github.com/centrehq/centre-tokens",
+            "reddit": "https://www.reddit.com",
+            "discord": "https://discord.com/invite/buildoncircle"
+        }
+    },
+
+    {
+        "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+        "address_label": "Wrapped BNB (Wormhole)",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x1_0x418d75f65a02b3d53b2418fb8e1fe493759c7605_5474d7011e504c66adba1cf1014ba200",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x1_0x418d75f65a02b3d53b2418fb8e1fe493759c7605_5474d7011e504c66adba1cf1014ba200",
+        "total_supply": "3158850596800000000000",
+        "total_supply_formatted": "3158.8505968",
+        "fully_diluted_valuation": "2130479.07",
+        "block_number": "20014940",
+        "validated": 1,
+        "created_at": "2021-10-08T17:17:58.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [],
+        "links": {
+            "twitter": "https://twitter.com/wormholecrypto",
+            "website": "https://wormholenetwork.com/",
+            "reddit": "https://www.reddit.com",
+            "github": "https://github.com/certusone/wormhole"
+        }
+    },
+
+    {
+        "address": "0x862827e70221c3a0ba27ab608ddfe4d5d3fe27c2",
+        "address_label": null,
+        "name": "SafeRune",
+        "symbol": "SAFERUNE",
+        "decimals": "9",
+        "logo": "https://logo.moralis.io/0x38_0x862827e70221c3a0ba27ab608ddfe4d5d3fe27c2_88107e8ee6824c5cb9b2d7165df7d7a5",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0x862827e70221c3a0ba27ab608ddfe4d5d3fe27c2_88107e8ee6824c5cb9b2d7165df7d7a5",
+        "total_supply": "1000000000000000000000000",
+        "total_supply_formatted": "1000000000000000",
+        "fully_diluted_valuation": "1630384.53",
+        "block_number": "6740608",
+        "validated": 1,
+        "created_at": "2021-04-20T20:49:50.000Z",
+        "possible_spam": false,
+        "verified_contract": false,
+        "categories": [],
+        "links": {}
+    },
+
+    {
+        "address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+        "address_label": null,
+        "name": "Pig Token",
+        "symbol": "PIG",
+        "decimals": "9",
+        "logo": "https://logo.moralis.io/0x38_0x8850d2c68c632e3b258e612abaa8fada7e6958e5_4c5f6c461a37440ca727b8c549ff9af0",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0x8850d2c68c632e3b258e612abaa8fada7e6958e5_4c5f6c461a37440ca727b8c549ff9af0",
+        "total_supply": "1000000000000000000000000",
+        "total_supply_formatted": "1000000000000000",
+        "fully_diluted_valuation": "29220456.57",
+        "block_number": "5208578",
+        "validated": 1,
+        "created_at": "2021-02-26T07:16:19.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Platform-Based Utility Tokens",
+            "Meme"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/Pig_Finance",
+            "website": "https://pigtoken.finance/",
+            "medium": "https://pigtoken.medium.com/",
+            "telegram": "https://t.me/PigTokenBSC"
+        }
+    },
+
+    {
+        "address": "0xee5b03b769ca6c690d140cafb52fc8de3f38fc28",
+        "address_label": null,
+        "name": "HYPERCHAIN",
+        "symbol": "HYPER",
+        "decimals": "7",
+        "logo": "https://logo.moralis.io/0x38_0xee5b03b769ca6c690d140cafb52fc8de3f38fc28_dcebe4d1712d4726a1402f8710c5b2f7",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0xee5b03b769ca6c690d140cafb52fc8de3f38fc28_dcebe4d1712d4726a1402f8710c5b2f7",
+        "total_supply": "9937778308522588",
+        "total_supply_formatted": "993777830.8522588",
+        "fully_diluted_valuation": "1202954.19",
+        "block_number": "39320889",
+        "validated": 1,
+        "created_at": "2022-09-18T16:25:48.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [],
+        "links": {
+            "twitter": "https://twitter.com/HyperchainX",
+            "website": "https://hyperchainx.com",
+            "github": "https://github.com/ContractChecker/audits/blob/main/HyperChain_Token_0xEE5b03b769Ca6c690D140CafB52fC8de3f38FC28_Smart_Contract_Security_Audit_By_ContractChecker.pdf",
+            "discord": "https://discord.gg/zXDhuHFJ",
+            "telegram": "https://t.me/hyperchainx"
+        }
+    },
+
+    {
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "address_label": "Binance-Peg Ethereum Token (ETH)",
+        "name": "Ethereum Token",
+        "symbol": "ETH",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x38_0x2170ed0880ac9a755fd29b2688956bd959f933f8_ad90af4287f545b8a1c9af57d8fd452c",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0x2170ed0880ac9a755fd29b2688956bd959f933f8_ad90af4287f545b8a1c9af57d8fd452c",
+        "total_supply": "604999999959841101714215",
+        "total_supply_formatted": "604999.999959841101714215",
+        "fully_diluted_valuation": "2296909502.58",
+        "block_number": "38823846",
+        "validated": 1,
+        "created_at": "2020-09-09T11:11:13.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "NFT Marketplace",
+            "Platform-Based Utility Tokens"
+        ],
+        "links": {
+            "website": "https://weth.io/",
+            "reddit": "https://www.reddit.com",
+            "github": "https://github.com/ethereum"
+        }
+    },
+
+    {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "address_label": "Dai Stablecoin",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x1_0x6b175474e89094c44da98b954eedeac495271d0f_204eb3fa61c24996a80df7ae5ab61714",
+        "logo_hash": "1e38c3133a55498d2b32d33319fb06b7c126e7f556fec0c1302e18a9fcd9cf93",
+        "thumbnail": "https://logo.moralis.io/0x1_0x6b175474e89094c44da98b954eedeac495271d0f_204eb3fa61c24996a80df7ae5ab61714",
+        "total_supply": "3258472112023156595365999680",
+        "total_supply_formatted": "3258472112.02315659536599968",
+        "fully_diluted_valuation": "3255029512.18",
+        "block_number": "20020271",
+        "validated": 1,
+        "created_at": "2019-11-13T19:17:57.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Platform-Based Utility Tokens",
+            "Governance",
+            "Decentralized Finance (DeFi)",
+            "Stablecoins"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/MakerDAO",
+            "website": "https://makerdao.com/",
+            "github": "github.com/makerdao",
+            "reddit": "https://www.reddit.com/r/MakerDAO",
+            "linkedin": "https://chat.makerdao.com",
+            "telegram": "https://t.me/makerdaoOfficial"
+        }
+    },
+
+    {
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "address_label": "PancakeSwap Token (Cake)",
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x38_0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82_d346d39bd9e2410d88ea826e2dbe7bd3",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82_d346d39bd9e2410d88ea826e2dbe7bd3",
+        "total_supply": "1698229659751051201610995531",
+        "total_supply_formatted": "1698229659.751051201610995531",
+        "fully_diluted_valuation": "4819733466.98",
+        "block_number": "39325886",
+        "validated": 1,
+        "created_at": "2020-09-22T05:47:49.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Decentralized Exchange (DEX)"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/pancakeswap",
+            "website": "https://pancakeswap.finance/affiliates-program",
+            "github": "https://github.com/pancakeswap",
+            "reddit": "https://www.reddit.com/r/pancakeswap",
+            "discord": "https://discord.com/invite/pancakeswap",
+            "telegram": "https://t.me/PancakeSwap"
+        }
+    },
+
+    {
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "address_label": "Binance-Peg BUSD Token (BUSD)",
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x38_0xe9e7cea3dedca5984780bafc599bd69add087d56_6af7aae54ec1438f92499b90aa7bd523",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0xe9e7cea3dedca5984780bafc599bd69add087d56_6af7aae54ec1438f92499b90aa7bd523",
+        "total_supply": "420994537843009889850619213",
+        "total_supply_formatted": "420994537.843009889850619213",
+        "fully_diluted_valuation": "420986333.34",
+        "block_number": "39273333",
+        "validated": 1,
+        "created_at": "2020-09-02T11:01:43.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Asset-backed Tokens",
+            "Exchange-Issued Asset Tokens",
+            "Stablecoins"
+        ],
+        "links": {
+            "twitter": "https://twitter.com/binance",
+            "website": "https://www.binance.com/en",
+            "github": "https://github.com/binance-chain/",
+            "discord": "https://discord.com/invite/jE4wt8g2H2"
+        }
+    },
+
+    {
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "address_label": "Binance-Peg BTCB Token (BTCB)",
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x38_0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c_5e40a45d59204bc79698116e6009b89b",
+        "logo_hash": null,
+        "thumbnail": "https://logo.moralis.io/0x38_0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c_5e40a45d59204bc79698116e6009b89b",
+        "total_supply": "60500999999999992999744",
+        "total_supply_formatted": "60500.999999999992999744",
+        "fully_diluted_valuation": "4255276355.91",
+        "block_number": "35674930",
+        "validated": 1,
+        "created_at": "2020-09-02T10:48:07.000Z",
+        "possible_spam": false,
+        "verified_contract": true,
+        "categories": [
+            "Exchange-Issued Asset Tokens"
+        ],
+        "links": {
+            "website": "https://info.binance.com/en/currencies/bitcoin-bep2",
+            "github": "https://github.com/binance-chain/"
+        }
+    }
+]

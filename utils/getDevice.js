@@ -1,7 +1,7 @@
 const gsmarena = require('gsmarena-api');
 
 exports.getSmartphones = async (id) => {
-    const devices = await gsmarena.catalog.getBrand('apple-phones-48');
+    const devices = await gsmarena.catalog.getBrand(id);
     return devices;
 }
 

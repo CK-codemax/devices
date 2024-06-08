@@ -1,0 +1,842 @@
+[
+  {
+    "id": "tecno_pova_6_neo-12911",
+    "name": "Pova 6 Neo",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-neo.jpg",
+    "description": "Tecno Pova 6 Neo Android smartphone. Announced Apr 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_6-12910",
+    "name": "Pova 6",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6.jpg",
+    "description": "Tecno Pova 6 Android smartphone. Announced Apr 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_camon_30_premier-12845",
+    "name": "Camon 30 Premier",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-premier-5g.jpg",
+    "description": "Tecno Camon 30 Premier Android smartphone. Announced Feb 2024. Features 6.77″  display, Dimensity 8200 Ultimate chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": "tecno_camon_30_pro-12846",
+    "name": "Camon 30 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-pro-new.jpg",
+    "description": "Tecno Camon 30 Pro Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 8200 Ultimate chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_camon_30_5g-12847",
+    "name": "Camon 30 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-5g.jpg",
+    "description": "Tecno Camon 30 5G Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 7020 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_camon_30-12848",
+    "name": "Camon 30",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon30.jpg",
+    "description": "Tecno Camon 30 Android smartphone. Announced Feb 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_pova_6_pro-12830",
+    "name": "Pova 6 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-pro-11.jpg",
+    "description": "Tecno Pova 6 Pro Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 6080 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_spark_20_pro+-12770",
+    "name": "Spark 20 Pro+",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro-plus.jpg",
+    "description": "Tecno Spark 20 Pro+ Android smartphone. Announced Dec 2023. Features 6.78″  display, Helio G99 Ultimate chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": "tecno_spark_20_pro-12747",
+    "name": "Spark 20 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro.jpg",
+    "description": "Tecno Spark 20 Pro Android smartphone. Announced Dec 2023. Features 6.78″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_20-12722",
+    "name": "Spark 20",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20.jpg",
+    "description": "Tecno Spark 20 Android smartphone. Announced Dec 2023. Features 6.6″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_20c-12710",
+    "name": "Spark 20C",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20c.jpg",
+    "description": "Tecno Spark 20C Android smartphone. Announced Nov 2023. Features 6.6″  display, Mediatek chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_go_2024-12702",
+    "name": "Spark Go 2024",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2024.jpg",
+    "description": "Tecno Spark Go 2024 Android smartphone. Announced Nov 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_8-12644",
+    "name": "Pop 8",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop8.jpg",
+    "description": "Tecno Pop 8 Android smartphone. Announced Oct 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_20s_pro_5g-12933",
+    "name": "Camon 20s Pro 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro-5g.jpg",
+    "description": "Tecno Camon 20s Pro 5G Android smartphone. Announced Nov 2023. Features 6.67″  display, Dimensity 8020 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_phantom_v_flip-12580",
+    "name": "Phantom V Flip",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip-5g-new.jpg",
+    "description": "Tecno Phantom V Flip Android smartphone. Announced Sep 2023. Features 6.9″  display, Dimensity 8050 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_5_pro-12448",
+    "name": "Pova 5 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5-pro.jpg",
+    "description": "Tecno Pova 5 Pro Android smartphone. Announced Aug 2023. Features 6.78″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_neo_3-12394",
+    "name": "Pova Neo 3",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo-3.jpg",
+    "description": "Tecno Pova Neo 3 Android smartphone. Announced Jun 2023. Features 6.82″  display, MT6769Z Helio G85 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_5-12393",
+    "name": "Pova 5",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5.jpg",
+    "description": "Tecno Pova 5 Android smartphone. Announced Jun 2023. Features 6.78″  display, Helio G99 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_20_premier-12256",
+    "name": "Camon 20 Premier",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-premier-5g.jpg",
+    "description": "Tecno Camon 20 Premier Android smartphone. Announced May 2023. Features 6.67″  display, Dimensity 8050 chipset, 5000 mAh battery, 512 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_20_pro_5g-12255",
+    "name": "Camon 20 Pro 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro-5g.jpg",
+    "description": "Tecno Camon 20 Pro 5G Android smartphone. Announced May 2023. Features 6.67″  display, Dimensity 8050 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_20_pro-12254",
+    "name": "Camon 20 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro.jpg",
+    "description": "Tecno Camon 20 Pro Android smartphone. Announced May 2023. Features 6.67″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_20-12253",
+    "name": "Camon 20",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro.jpg",
+    "description": "Tecno Camon 20 Android smartphone. Announced May 2023. Features 6.67″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pop_7-12202",
+    "name": "Pop 7",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop7.jpg",
+    "description": "Tecno Pop 7 Android smartphone. Announced Mar 2023. Features 6.6″  display, 5000 mAh battery, 64 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_10_5g-12179",
+    "name": "Spark 10 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10-5g.jpg",
+    "description": "Tecno Spark 10 5G Android smartphone. Announced Mar 2023. Features 6.6″  display, Dimensity 6020 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_10c-12199",
+    "name": "Spark 10C",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-10c.jpg",
+    "description": "Tecno Spark 10C Android smartphone. Announced Mar 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_10-12178",
+    "name": "Spark 10",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10.jpg",
+    "description": "Tecno Spark 10 Android smartphone. Announced Mar 2023. Features 6.6″  display, MT6765 Helio G37 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_spark_10_pro-12156",
+    "name": "Spark 10 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10-pro-.jpg",
+    "description": "Tecno Spark 10 Pro Android smartphone. Announced Mar 2023. Features 6.8″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_phantom_v_fold-12150",
+    "name": "Phantom V Fold",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-fold.jpg",
+    "description": "Tecno Phantom V Fold Android smartphone. Announced Feb 2023. Features 7.85″  display, Dimensity 9000+ chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM."
+  },
+  {
+    "id": "tecno_pop_7_pro-12108",
+    "name": "Pop 7 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-7-pro--.jpg",
+    "description": "Tecno Pop 7 Pro Android smartphone. Announced Jan 2023. Features 6.6″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_spark_go_2023-12086",
+    "name": "Spark Go 2023",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg",
+    "description": "Tecno Spark Go 2023 Android smartphone. Announced Jan 2023. Features 6.6″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_phantom_x2_pro-12010",
+    "name": "Phantom X2 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-x2-pro.jpg",
+    "description": "Tecno Phantom X2 Pro Android smartphone. Announced Dec 2022. Features 6.8″  display, Dimensity 9000 chipset, 5160 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus."
+  },
+  {
+    "id": "tecno_phantom_x2-12009",
+    "name": "Phantom X2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-x2.jpg",
+    "description": "Tecno Phantom X2 Android smartphone. Announced Dec 2022. Features 6.8″  display, Dimensity 9000 chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus."
+  },
+  {
+    "id": "tecno_pova_4-11926",
+    "name": "Pova 4",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova4.jpg",
+    "description": "Tecno Pova 4 Android smartphone. Announced Oct 2022. Features 6.82″  display, Helio G99 chipset, 6000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_4_pro-11925",
+    "name": "Pova 4 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova4-pro.jpg",
+    "description": "Tecno Pova 4 Pro Android smartphone. Announced Oct 2022. Features 6.66″  display, Helio G99 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_neo_2-11900",
+    "name": "Pova Neo 2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo2.jpg",
+    "description": "Tecno Pova Neo 2 Android smartphone. Announced Sep 2022. Features 6.82″  display, MT6769Z Helio G85 chipset, 7000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pova_neo_5g-11898",
+    "name": "Pova Neo 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo-5g.jpg",
+    "description": "Tecno Pova Neo 5G Android smartphone. Announced Sep 2022. Features 6.8″  display, Dimensity 810 chipset, 6000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_6_pro-11886",
+    "name": "Pop 6 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6-pro.jpg",
+    "description": "Tecno Pop 6 Pro Android smartphone. Announced Sep 2022. Features 6.56″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_9t_(india)-11732",
+    "name": "Spark 9T (India)",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-9t-india.jpg",
+    "description": "Tecno Spark 9T (India) Android smartphone. Announced Jul 2022. Features 6.6″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_9-11694",
+    "name": "Spark 9",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-9-.jpg",
+    "description": "Tecno Spark 9 Android smartphone. Announced Jul 2022. Features 6.6″  display, MT6765V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_spark_9t-11631",
+    "name": "Spark 9T",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-9t-.jpg",
+    "description": "Tecno Spark 9T Android smartphone. Announced Jun 2022. Features 6.6″  display, MT6765V chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_19_pro_5g-11625",
+    "name": "Camon 19 Pro 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-19-pro-5g.jpg",
+    "description": "Tecno Camon 19 Pro 5G Android smartphone. Announced Jun 2022. Features 6.8″  display, Dimensity 810 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_19_pro-11618",
+    "name": "Camon 19 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-19-pro-.jpg",
+    "description": "Tecno Camon 19 Pro Android smartphone. Announced Jun 2022. Features 6.8″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_19-11617",
+    "name": "Camon 19",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-19.jpg",
+    "description": "Tecno Camon 19 Android smartphone. Announced Jun 2022. Features 6.8″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_19_neo-11619",
+    "name": "Camon 19 Neo",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-19-neo-.jpg",
+    "description": "Tecno Camon 19 Neo Android smartphone. Announced Jun 2022. Features 6.8″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pop_6-11781",
+    "name": "Pop 6",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6.jpg",
+    "description": "Tecno Pop 6 Android smartphone. Announced Jun 2022. Features 6.1″  display, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_9_pro-11603",
+    "name": "Spark 9 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark9-pro.jpg",
+    "description": "Tecno Spark 9 Pro Android smartphone. Announced Jun 2022. Features 6.6″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pova_3-11553",
+    "name": "Pova 3",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova3.jpg",
+    "description": "Tecno Pova 3 Android smartphone. Announced May 2022. Features 6.9″  display, MT6769H Helio G88 chipset, 7000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pop_6_go-11782",
+    "name": "Pop 6 Go",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6go.jpg",
+    "description": "Tecno Pop 6 Go Android smartphone. Announced May 2022. Features 6.0″  display, 4000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5s-11352",
+    "name": "Pop 5S",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-5s-.jpg",
+    "description": "Tecno Pop 5S Android smartphone. Announced Feb 2022. Features 5.7″  display, 3020 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_8c-11340",
+    "name": "Spark 8C",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8c.jpg",
+    "description": "Tecno Spark 8C Android smartphone. Announced Jan 2022. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5x-11337",
+    "name": "Pop 5X",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-5x.jpg",
+    "description": "Tecno Pop 5X Android smartphone. Announced Jan 2022. Features 6.52″  display, Unisoc SC9832E chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5_pro-11326",
+    "name": "Pop 5 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5-pro.jpg",
+    "description": "Tecno Pop 5 Pro Android smartphone. Announced Jan 2022. Features 6.52″  display, MT6761 Helio A22 chipset, 6000 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_spark_8_pro-11297",
+    "name": "Spark 8 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark8-pro.jpg",
+    "description": "Tecno Spark 8 Pro Android smartphone. Announced Dec 2021. Features 6.8″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_spark_8t-11298",
+    "name": "Spark 8T",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8t.jpg",
+    "description": "Tecno Spark 8T Android smartphone. Announced Dec 2021. Features 6.6″  display, MT6765G Helio G35 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_go_2022-11299",
+    "name": "Spark Go 2022",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2022.jpg",
+    "description": "Tecno Spark Go 2022 Android smartphone. Announced Dec 2021. Features 6.52″  display, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pova_5g-11289",
+    "name": "Pova 5G",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5g-.jpg",
+    "description": "Tecno Pova 5G Android smartphone. Announced Dec 2021. Features 6.9″  display, Dimensity 900 chipset, 6000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_neo-11260",
+    "name": "Pova Neo",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo.jpg",
+    "description": "Tecno Pova Neo Android smartphone. Announced Dec 2021. Features 6.8″  display, MT6762G Helio G25 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_18t-11254",
+    "name": "Camon 18T",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-18t.jpg",
+    "description": "Tecno Camon 18T Android smartphone. Announced Nov 2021. Features 6.8″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5_lte-11296",
+    "name": "Pop 5 LTE",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5-lte.jpg",
+    "description": "Tecno Pop 5 LTE Android smartphone. Announced Nov 2021. Features 6.52″  display, Unisoc SC9863A chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5c-11212",
+    "name": "Pop 5c",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-5c.jpg",
+    "description": "Tecno Pop 5c Android smartphone. Announced Nov 2021. Features 5.0″  display, Unisoc SC7731e chipset, 2400 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_camon_18i-11192",
+    "name": "Camon 18i",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-18i.jpg",
+    "description": "Tecno Camon 18i Android smartphone. Announced Nov 2021. Features 6.6″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_8p-11250",
+    "name": "Spark 8P",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8p.jpg",
+    "description": "Tecno Spark 8P Android smartphone. Announced Oct 2021. Features 6.6″  display, MT6769V Helio G70 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_18_premier-11138",
+    "name": "Camon 18 Premier",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-18-premier-.jpg",
+    "description": "Tecno Camon 18 Premier Android smartphone. Announced Oct 2021. Features 6.7″  display, MT6781 Helio G96 chipset, 4750 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_18_p-11139",
+    "name": "Camon 18 P",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-18p.jpg",
+    "description": "Tecno Camon 18 P Android smartphone. Announced Oct 2021. Features 6.8″  display, MT6781 Helio G96 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_18-11140",
+    "name": "Camon 18",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-18.jpg",
+    "description": "Tecno Camon 18 Android smartphone. Announced Oct 2021. Features 6.8″  display, MT6769H Helio G88 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_spark_8-11188",
+    "name": "Spark 8",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8.jpg",
+    "description": "Tecno Spark 8 Android smartphone. Announced Sep 2021. Features 6.52″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_5-11032",
+    "name": "Pop 5",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5.jpg",
+    "description": "Tecno Pop 5 Android smartphone. Announced Jul 2021. Features 6.1″  display, 4000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_go_2021-10983",
+    "name": "Spark Go 2021",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2021.jpg",
+    "description": "Tecno Spark Go 2021 Android smartphone. Announced Jul 2021. Features 6.52″  display, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_7t-10984",
+    "name": "Spark 7T",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7t.jpg",
+    "description": "Tecno Spark 7T Android smartphone. Announced Jun 2021. Features 6.52″  display, MT6765G Helio G35 chipset, 6000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_phantom_x-10979",
+    "name": "Phantom X",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-x.jpg",
+    "description": "Tecno Phantom X Android smartphone. Announced Jun 2021. Features 6.7″  display, MT6785V chipset, 4700 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pova_2-10945",
+    "name": "Pova 2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-2.jpg",
+    "description": "Tecno Pova 2 Android smartphone. Announced Jun 2021. Features 6.9″  display, MT6769Z Helio G85 chipset, 7000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_17_pro-10895",
+    "name": "Camon 17 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-17-pro.jpg",
+    "description": "Tecno Camon 17 Pro Android smartphone. Announced May 2021. Features 6.8″  display, MT6785V chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_camon_17p-10896",
+    "name": "Camon 17P",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-17p.jpg",
+    "description": "Tecno Camon 17P Android smartphone. Announced May 2021. Features 6.8″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_17-10897",
+    "name": "Camon 17",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-17.jpg",
+    "description": "Tecno Camon 17 Android smartphone. Announced May 2021. Features 6.6″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_spark_7_pro-10884",
+    "name": "Spark 7 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7-pro.jpg",
+    "description": "Tecno Spark 7 Pro Android smartphone. Announced Apr 2021. Features 6.6″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_spark_7p-10849",
+    "name": "Spark 7P",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7p.jpg",
+    "description": "Tecno Spark 7P Android smartphone. Announced Apr 2021. Features 6.8″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_7-10845",
+    "name": "Spark 7",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7.jpg",
+    "description": "Tecno Spark 7 Android smartphone. Announced Apr 2021. Features 6.5″  display, MT6762D Helio A25 chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_16_pro-10634",
+    "name": "Camon 16 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-16-pro.jpg",
+    "description": "Tecno Camon 16 Pro Android smartphone. Announced Sep 2020. Features 6.8″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_camon_16_s-10635",
+    "name": "Camon 16 S",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-16s.jpg",
+    "description": "Tecno Camon 16 S Android smartphone. Announced Nov 2020. Features 6.6″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_spark_6_go-10636",
+    "name": "Spark 6 Go",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-6-go.jpg",
+    "description": "Tecno Spark 6 Go Android smartphone. Announced Nov 2020. Features 6.52″  display, MT6761D Helio A20 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_spark_go_2020-10637",
+    "name": "Spark Go 2020",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2020.jpg",
+    "description": "Tecno Spark Go 2020 Android smartphone. Announced Sep 2020. Features 6.52″  display, MT6761D Helio A20 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_pova-10549",
+    "name": "Pova",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova.jpg",
+    "description": "Tecno Pova Android smartphone. Announced Oct 2020. Features 6.8″  display, MT6769V chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_16-10503",
+    "name": "Camon 16",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-16.jpg",
+    "description": "Tecno Camon 16 Android smartphone. Announced Oct 2020. Features 6.8″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_spark_6_air-10548",
+    "name": "Spark 6 Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark6-air.jpg",
+    "description": "Tecno Spark 6 Air Android smartphone. Announced Jul 2020. Features 7.0″  display, MT6761 Helio A22 chipset, 6000 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_spark_6-10471",
+    "name": "Spark 6",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark6.jpg",
+    "description": "Tecno Spark 6 Android smartphone. Announced Sep 2020. Features 6.8″  display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_16_premier-10421",
+    "name": "Camon 16 Premier",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-16-premier.jpg",
+    "description": "Tecno Camon 16 Premier Android smartphone. Announced Sep 2020. Features 6.85″  display, MT6785 Helio G90T chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_4_pro-10345",
+    "name": "Pouvoir 4 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pouvoir-4-pro.jpg",
+    "description": "Tecno Pouvoir 4 Pro Android smartphone. Announced Jul 2020. Features 7.0″  display, MT6762 Helio P22 chipset, 6000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pop_4-10720",
+    "name": "Pop 4",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop4.jpg",
+    "description": "Tecno Pop 4 Android smartphone. Announced Jul 2020. Features 6.0″  display, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_4-10344",
+    "name": "Pouvoir 4",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pouvoir-4.jpg",
+    "description": "Tecno Pouvoir 4 Android smartphone. Announced Jul 2020. Features 7.0″  display, MT6761 Helio A22 chipset, 6000 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_spark_power_2-10300",
+    "name": "Spark Power 2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-power2.jpg",
+    "description": "Tecno Spark Power 2 Android smartphone. Announced Jun 2020. Features 7.0″  display, MT6762 Helio P22 chipset, 6000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_5_air-10225",
+    "name": "Spark 5 Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-5-air.jpg",
+    "description": "Tecno Spark 5 Air Android smartphone. Announced May 2020. Features 7.0″  display, Mediatek chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_5_pro-10324",
+    "name": "Spark 5 pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-5.jpg",
+    "description": "Tecno Spark 5 pro Android smartphone. Announced Jul 2020. Features 6.6″  display, MT6762D Helio A25 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_spark_5-10221",
+    "name": "Spark 5",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-5.jpg",
+    "description": "Tecno Spark 5 Android smartphone. Announced May 2020. Features 6.6″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_camon_15_premier-10190",
+    "name": "Camon 15 Premier",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-15-premier.jpg",
+    "description": "Tecno Camon 15 Premier Android smartphone. Announced Apr 2020. Features 6.6″  display, MT6765V chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_15_air-10189",
+    "name": "Camon 15 Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon15-air-.jpg",
+    "description": "Tecno Camon 15 Air Android smartphone. Announced Apr 2020. Features 6.6″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_camon_15_pro-10094",
+    "name": "Camon 15 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-15-pro.jpg",
+    "description": "Tecno Camon 15 Pro Android smartphone. Announced Feb 2020. Features 6.6″  display, MT6765 Helio P35 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_15-10093",
+    "name": "Camon 15",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-15.jpg",
+    "description": "Tecno Camon 15 Android smartphone. Announced Feb 2020. Features 6.6″  display, MT6762 Helio P22 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_12_air-10005",
+    "name": "Camon 12 Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-12-air.jpg",
+    "description": "Tecno Camon 12 Air Android smartphone. Announced Oct 2019. Features 6.55″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pop_3_plus-10006",
+    "name": "Pop 3 Plus",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-3-plus.jpg",
+    "description": "Tecno Pop 3 Plus Android smartphone. Announced Dec 2019. Features 6.52″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_spark_4_lite-10007",
+    "name": "Spark 4 Lite",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-4-lite.jpg",
+    "description": "Tecno Spark 4 Lite Android smartphone. Announced Dec 2019. Features 6.52″  display, MT6761 Helio A22 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_4-10695",
+    "name": "Spark 4",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark4.jpg",
+    "description": "Tecno Spark 4 Android smartphone. Announced Sep 2019. Features 6.52″  display, 4000 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_camon_12_pro-9865",
+    "name": "Camon 12 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-12-pro.jpg",
+    "description": "Tecno Camon 12 Pro Android smartphone. Announced Sep 2019. Features 6.35″  display, MT6762 Helio P22 chipset, 3500 mAh battery, 64 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_camon_12-9864",
+    "name": "Camon 12",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-12.jpg",
+    "description": "Tecno Camon 12 Android smartphone. Announced Aug 2019. Features 6.52″  display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_3_air-9868",
+    "name": "Pouvoir 3 Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pouvoir-3-air.jpg",
+    "description": "Tecno Pouvoir 3 Air Android smartphone. Announced Aug 2019. Features 6.0″  display, MT6761 Helio A22 chipset, 5000 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_3_plus-9867",
+    "name": "Pouvoir 3 Plus",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pouvoir-3-plus.jpg",
+    "description": "Tecno Pouvoir 3 Plus Android smartphone. Announced Aug 2019. Features 6.35″  display, MT6762 Helio P22 chipset, 6000 mAh battery, 64 GB storage, 6 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_3-9866",
+    "name": "Pouvoir 3",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pouvoir-3.jpg",
+    "description": "Tecno Pouvoir 3 Android smartphone. Announced Jun 2019. Features 6.2″  display, MT6739WA chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_spark_3-9869",
+    "name": "Spark 3",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-3.jpg",
+    "description": "Tecno Spark 3 Android smartphone. Announced Apr 2019. Features 6.2″  display, MT6761 Helio A22 chipset, 3500 mAh battery, 16 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_3_pro-9870",
+    "name": "Spark 3 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark3-pro-.jpg",
+    "description": "Tecno Spark 3 Pro Android smartphone. Announced Apr 2019. Features 6.2″  display, MT6761 Helio A22 chipset, 3500 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_spark_go-9871",
+    "name": "Spark Go",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go.jpg",
+    "description": "Tecno Spark Go Android smartphone. Announced Aug 2019. Features 6.1″  display, MT6761 Helio A22 chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pop_2_f-9874",
+    "name": "Pop 2 F",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop-2f.jpg",
+    "description": "Tecno Pop 2 F Android smartphone. Announced May 2019. Features 5.45″  display, MT6580M chipset, 2400 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_pop_2_plus-9875",
+    "name": "Pop 2 Plus",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop2plus.jpg",
+    "description": "Tecno Pop 2 Plus Android smartphone. Announced May 2019. Features 6.0″  display, MT6580P chipset, 5000 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_phantom_9-9767",
+    "name": "Phantom 9",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-9.jpg",
+    "description": "Tecno Phantom 9 Android smartphone. Announced Jul 2019. Features 6.39″  display, MT6765 Helio P35 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_camon_iace2x-9577",
+    "name": "Camon iACE2X",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-iace2x.jpg",
+    "description": "Tecno Camon iACE2X Android smartphone. Announced Feb 2019. Features 5.5″  display, MT6761 Helio A22 chipset, 3050 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_camon_i4-11959",
+    "name": "Camon i4",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-i4.jpg",
+    "description": "Tecno Camon i4 Android smartphone. Announced Apr 2019. Features 6.2″  display, MT6761 Helio A22 chipset, 3500 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": "tecno_camon_iace2-9578",
+    "name": "Camon iACE2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-iace2.jpg",
+    "description": "Tecno Camon iACE2 Android smartphone. Announced Feb 2019. Features 5.5″  display, MT6761 Helio A22 chipset, 3050 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_camon_11_pro-9441",
+    "name": "Camon 11 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon11-pro.jpg",
+    "description": "Tecno Camon 11 Pro Android smartphone. Announced Sep 2018. Features 6.2″  display, MT6762 Helio P22 chipset, 3750 mAh battery, 64 GB storage, 6 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_11-9442",
+    "name": "Camon 11",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon11.jpg",
+    "description": "Tecno Camon 11 Android smartphone. Announced Sep 2018. Features 6.2″  display, MT6761 Helio A22 chipset, 3750 mAh battery, 64 GB storage, 4 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_pop_1s-9465",
+    "name": "Pop 1s",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pop1s.jpg",
+    "description": "Tecno Pop 1s Android smartphone. Announced Jul 2018. Features 5.5″  display, MT6739WA chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM, NEG T2X."
+  },
+  {
+    "id": "tecno_pop_1_pro-9464",
+    "name": "Pop 1 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pop1-pro.jpg",
+    "description": "Tecno Pop 1 Pro Android smartphone. Announced Jun 2018. Features 5.45″  display, MT6580W chipset, 2400 mAh battery, 16 GB storage, 1000 MB RAM, NEG T2X."
+  },
+  {
+    "id": "tecno_pop_1-9463",
+    "name": "Pop 1",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pop1.jpg",
+    "description": "Tecno Pop 1 Android smartphone. Announced Mar 2018. Features 5.45″  display, MT6580W chipset, 2400 mAh battery, 8 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_f2_lte-9461",
+    "name": "F2 LTE",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-f2-lte.jpg",
+    "description": "Tecno F2 LTE Android smartphone. Announced May 2018. Features 5.0″  display, MT6739WA chipset, 2400 mAh battery, 8 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_f2-9460",
+    "name": "F2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-f2.jpg",
+    "description": "Tecno F2 Android smartphone. Announced Mar 2018. Features 5.0″  display, MT6580M chipset, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_pop_1_lite-9459",
+    "name": "Pop 1 Lite",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pop1-lite.jpg",
+    "description": "Tecno Pop 1 Lite Android smartphone. Announced Jul 2018. Features 5.0″  display, MT6580M chipset, 2000 mAh battery, 8 GB storage, 512 MB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_2_pro-9458",
+    "name": "Pouvoir 2 Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pouvoir-2-pro.jpg",
+    "description": "Tecno Pouvoir 2 Pro Android smartphone. Announced Aug 2018. Features 6.0″  display, 5000 mAh battery, 16 GB storage, 3 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_2-9457",
+    "name": "Pouvoir 2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pouvoir2.jpg",
+    "description": "Tecno Pouvoir 2 Android smartphone. Announced May 2018. Features 6.0″  display, 5000 mAh battery, 16 GB storage, 2 GB RAM."
+  },
+  {
+    "id": "tecno_pouvoir_1-9456",
+    "name": "Pouvoir 1",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-pouvoir.jpg",
+    "description": "Tecno Pouvoir 1 Android smartphone. Announced May 2018. Features 5.5″  display, MT6580W chipset, 5000 mAh battery, 16 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": "tecno_spark_pro-9455",
+    "name": "Spark Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-spark-pro.jpg",
+    "description": "Tecno Spark Pro Android smartphone. Announced Oct 2017. Features 5.5″  display, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": "tecno_spark_plus-9452",
+    "name": "Spark Plus",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-spark-plus.jpg",
+    "description": "Tecno Spark Plus Android smartphone. Announced Jun 2017. Features 6.0″  display, MT6580 chipset, 3400 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": "tecno_spark_cm-9451",
+    "name": "Spark CM",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-spark-cm.jpg",
+    "description": "Tecno Spark CM Android smartphone. Announced Dec 2017. Features 5.7″  display, MT6737 chipset, 3050 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": "tecno_spark_2-9450",
+    "name": "Spark 2",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-spark2.jpg",
+    "description": "Tecno Spark 2 Android smartphone. Announced Jun 2018. Features 6.0″  display, MT6580 chipset, 3500 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": "tecno_spark-9449",
+    "name": "Spark",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-spark.jpg",
+    "description": "Tecno Spark Android smartphone. Announced May 2017. Features 5.5″  display, MT6580 chipset, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": "tecno_camon_x_pro-9448",
+    "name": "Camon X Pro",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-x-pro.jpg",
+    "description": "Tecno Camon X Pro Android smartphone. Announced Mar 2018. Features 6.0″  display, MT6763T Helio P23 chipset, 3750 mAh battery, 64 GB storage, 4 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_x-9447",
+    "name": "Camon X",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-x.jpg",
+    "description": "Tecno Camon X Android smartphone. Announced Mar 2018. Features 6.0″  display, MT6763T Helio P23 chipset, 3750 mAh battery, 32 GB storage, 3 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_cx_manchester_city_le-9446",
+    "name": "Camon CX Manchester City LE",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-cx-mc.jpg",
+    "description": "Tecno Camon CX Manchester City LE Android smartphone. Announced Mar 2017. Features 5.5″  display, MT6750T chipset, 3200 mAh battery, 64 GB storage, 4 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_cx_air-9445",
+    "name": "Camon CX Air",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-cx-air.jpg",
+    "description": "Tecno Camon CX Air Android smartphone. Announced Apr 2017. Features 5.5″  display, 3200 mAh battery, 16 GB storage, 2 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_cx-9444",
+    "name": "Camon CX",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-cx.jpg",
+    "description": "Tecno Camon CX Android smartphone. Announced Mar 2017. Features 5.5″  display, MT6750T chipset, 3200 mAh battery, 32 GB storage, 3 GB RAM, NEG."
+  },
+  {
+    "id": "tecno_camon_cm-9443",
+    "name": "Camon CM",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-camon-cm.jpg",
+    "description": "Tecno Camon CM Android smartphone. Announced Dec 2017. Features 5.7″  display, MT6737H chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_phantom_8-9440",
+    "name": "Phantom 8",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-phantom8.jpg",
+    "description": "Tecno Phantom 8 Android smartphone. Announced Apr 2018. Features 5.7″  display, MT6757T Helio P25 chipset, 3500 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_phantom_6_plus-9439",
+    "name": "Phantom 6 Plus",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-phantom6plus.jpg",
+    "description": "Tecno Phantom 6 Plus Android smartphone. Announced Sep 2016. Features 6.0″  display, MT6797 Helio X20 chipset, 4050 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": "tecno_phantom_6-9438",
+    "name": "Phantom 6",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/tecno-mobile-phantom6.jpg",
+    "description": "Tecno Phantom 6 Android smartphone. Announced Sep 2016. Features 5.5″  display, MT6755 chipset, 2700 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3."
+  }
+]
