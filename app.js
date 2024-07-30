@@ -1,18 +1,18 @@
-const path = require('path');
-const express = require('express');
-const morgan = require('morgan');
+const path = require("path");
+const express = require("express");
+const morgan = require("morgan");
 
-const AppError = require('./utils/appError');
-const brandRouter = require('./routes/brandRoutes');
-const globalErrorHandler = require('./controllers/errorController');
+const AppError = require("./utils/appError");
+const brandRouter = require("./routes/brandRoutes");
+const deviceRouter = require("./routes/deviceRoutes");
+const userRouter = require("./routes/userRoutes");
+const globalErrorHandler = require("./controllers/errorController");
 
 const app = express();
 
-
-
 // 1) MIDDLEWARES
-if (process.env.NODE_ENV === 'development') {
-  app.use(morgan('dev'));
+if (process.env.NODE_ENV === "development") {
+  app.use(morgan("dev"));
 }
 
 app.use(express.json());
@@ -28,13 +28,14 @@ app.use(express.static(`${__dirname}/public`));
 //Dynamic routes using pug extension
 
 //API routes
-app.use('/api/v1/brands', brandRouter);
+app.use("/api/v1/brands", brandRouter);
+app.use("/api/v1/smartphones", deviceRouter);
+app.use("/api/v1/users", userRouter);
 
 //Error handling for all undefined routes
-app.all('*', (req, res, next) => {
-   next(new AppError(`Can't find ${req.originalUrl} on this server`, 404))
-
-})
+app.all("*", (req, res, next) => {
+  next(new AppError(`Can't find ${req.originalUrl} on this server`, 404));
+});
 
 //Global error handling middleware
 app.use(globalErrorHandler);
